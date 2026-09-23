@@ -1,0 +1,1 @@
+//check if any code need for the registration endpoint
